@@ -1,0 +1,100 @@
+body{
+	text-align: center;
+	margin: 0px;
+	height: 100%;
+}
+
+#imgpag{
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 70px;
+	heigth: 70px;
+	display: inline;
+}
+
+img{
+	width: 100px;
+	heigth:80px;
+	
+}
+#startGame, .botao{
+	border: none;
+	background-color: rgb(254, 106, 44);
+	padding: 20px;
+	color: white;
+	font-family: georgia;
+	text-decoration: none;
+}
+
+i{
+	font-size: 20px;	
+}
+
+h1{
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+h2{
+	margin-top: 25px;
+	margin-bottom: 150px;
+}
+
+.verde{
+	color: rgb(160, 191, 139);
+}
+
+.cinza{
+	color: rgb(132,139,149);
+}
+.azulq{
+	color: rgb(115, 181, 239);
+}
+
+.azult{
+	color: rgb(116, 143, 192);
+}
+
+.bege{
+	color: rgb(227, 190, 98);
+}
+
+.lilas{
+	color: rgb(181, 195, 221);
+}
+
+.retangulo{
+	width: 140px;
+	heigth:140px;
+}
+
+b{
+	margin-top:100px;
+}
+#fig{
+	margin-bottom: 50px;
+}
+
+br{
+	margin-top: 100px;
+}
+
+header{
+	margin-top: 0px;
+	margin-bottom: 50px;
+	width: 100%;
+	background-color: rgb(254, 106, 44);
+	text-align: left;
+	color: white;
+	position: relative;
+}
+
+footer{
+	background-color: rgb(254, 106, 44);
+	padding: 20px;
+	position: fixed;
+	bottom: 0;
+	width: 100%;  
+}
+
+	
